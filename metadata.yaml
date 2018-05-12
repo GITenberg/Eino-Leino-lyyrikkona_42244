@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6580
     wikipedia: http://fi.wikipedia.org/wiki/Juhani_Siljo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42244#Eino-Leino-lyyrikkona
 gutenberg_issued: '2013-03-02'
 gutenberg_type: Text
 identifiers:
